@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\bin\Debug\netcoreapp2.1\3.03Tercero.deps.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\bin\Debug\netcoreapp2.1\3.03Tercero.runtimeconfig.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\bin\Debug\netcoreapp2.1\3.03Tercero.runtimeconfig.dev.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\bin\Debug\netcoreapp2.1\3.03Tercero.dll
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\bin\Debug\netcoreapp2.1\3.03Tercero.pdb
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\obj\Debug\netcoreapp2.1\3.03Tercero.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\obj\Debug\netcoreapp2.1\3.03Tercero.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\obj\Debug\netcoreapp2.1\3.03Tercero.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\obj\Debug\netcoreapp2.1\3.03Tercero.AssemblyInfo.vb
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\obj\Debug\netcoreapp2.1\3.03Tercero.dll
+D:\2019\Visual Basic\EstructurasControlFlujo\3.03Tercero\obj\Debug\netcoreapp2.1\3.03Tercero.pdb

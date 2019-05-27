@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\bin\Debug\netcoreapp2.1\3.04Venta.deps.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\bin\Debug\netcoreapp2.1\3.04Venta.runtimeconfig.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\bin\Debug\netcoreapp2.1\3.04Venta.runtimeconfig.dev.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\bin\Debug\netcoreapp2.1\3.04Venta.dll
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\bin\Debug\netcoreapp2.1\3.04Venta.pdb
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\obj\Debug\netcoreapp2.1\3.04Venta.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\obj\Debug\netcoreapp2.1\3.04Venta.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\obj\Debug\netcoreapp2.1\3.04Venta.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\obj\Debug\netcoreapp2.1\3.04Venta.AssemblyInfo.vb
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\obj\Debug\netcoreapp2.1\3.04Venta.dll
+D:\2019\Visual Basic\EstructurasControlFlujo\3.04Venta\obj\Debug\netcoreapp2.1\3.04Venta.pdb

@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\bin\Debug\netcoreapp2.1\3.09ConversionMedidas.deps.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\bin\Debug\netcoreapp2.1\3.09ConversionMedidas.runtimeconfig.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\bin\Debug\netcoreapp2.1\3.09ConversionMedidas.runtimeconfig.dev.json
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\bin\Debug\netcoreapp2.1\3.09ConversionMedidas.dll
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\bin\Debug\netcoreapp2.1\3.09ConversionMedidas.pdb
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\obj\Debug\netcoreapp2.1\3.09ConversionMedidas.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\obj\Debug\netcoreapp2.1\3.09ConversionMedidas.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\obj\Debug\netcoreapp2.1\3.09ConversionMedidas.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\obj\Debug\netcoreapp2.1\3.09ConversionMedidas.AssemblyInfo.vb
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\obj\Debug\netcoreapp2.1\3.09ConversionMedidas.dll
+D:\2019\Visual Basic\EstructurasControlFlujo\3.09ConversionMedidas\obj\Debug\netcoreapp2.1\3.09ConversionMedidas.pdb
