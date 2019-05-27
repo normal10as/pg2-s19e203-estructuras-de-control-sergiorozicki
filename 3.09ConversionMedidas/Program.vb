@@ -63,7 +63,7 @@ Module ConversioMedias
                 Console.WriteLine("La convercion de metros a yardas es: " & yardas)
                 Console.WriteLine("La convercion de metros a centimetros es: " & centimetros)
             Case Else
-                Console.WriteLine("Inudad de medida introducida incorreta")
+                Console.WriteLine("Inidad de medida introducida incorreta")
         End Select
     End Sub
 End Module
