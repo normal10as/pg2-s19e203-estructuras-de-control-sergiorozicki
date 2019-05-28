@@ -9,3 +9,14 @@ D:\2019\Visual Basic\EstructurasControlFlujo\3.05NombreMes\obj\Debug\netcoreapp2
 D:\2019\Visual Basic\EstructurasControlFlujo\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.dll
 D:\2019\Visual Basic\EstructurasControlFlujo\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.pdb
 D:\2019\Visual Basic\EstructurasControlFlujo\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\bin\Debug\netcoreapp2.1\3.05NombreMes.deps.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\bin\Debug\netcoreapp2.1\3.05NombreMes.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\bin\Debug\netcoreapp2.1\3.05NombreMes.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\bin\Debug\netcoreapp2.1\3.05NombreMes.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\bin\Debug\netcoreapp2.1\3.05NombreMes.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.05NombreMes\obj\Debug\netcoreapp2.1\3.05NombreMes.pdb

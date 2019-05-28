@@ -3,49 +3,49 @@ Imports System
 Module NombreMes
     Enum Meses
         Enero = 1
-        Febrero = 2
-        Marzo = 3
-        Abril = 4
-        Mayo = 5
-        Junio = 6
-        Julio = 7
-        Agosto = 8
-        Septiebre = 9
-        Octubre = 10
-        Noviembre = 11
-        Diciembre = 12
+        Febrero
+        Marzo
+        Abril
+        Mayo
+        Junio
+        Julio
+        Agosto
+        Septiebre
+        Octubre
+        Noviembre
+        Diciembre
     End Enum
     Sub Main(args As String())
 
-        Dim mes As Meses
+        Dim mes As Byte
 
         Console.Write("Ingrese numero de un mes (del 1 al 12): ")
         mes = Console.ReadLine()
         Select Case mes
-            Case 1
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 2
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 3
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 4
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 5
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 6
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 7
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 8
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 9
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 10
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 11
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
-            Case 12
-                Console.WriteLine("El mes ingresado es: " & mes.ToString)
+            Case Meses.Enero
+                Console.WriteLine("El mes ingresado es Enero")
+            Case Meses.Febrero
+                Console.WriteLine("El mes ingresado es Febrero")
+            Case Meses.Marzo
+                Console.WriteLine("El mes ingresado es Marzo")
+            Case Meses.Abril
+                Console.WriteLine("El mes ingresado es Abril")
+            Case Meses.Mayo
+                Console.WriteLine("El mes ingresado es Mayo")
+            Case Meses.Junio
+                Console.WriteLine("El mes ingresado es Junio")
+            Case Meses.Julio
+                Console.WriteLine("El mes ingresado es Julio")
+            Case Meses.Agosto
+                Console.WriteLine("El mes ingresado es Agosto")
+            Case Meses.Septiebre
+                Console.WriteLine("El mes ingresado es Septiebre")
+            Case Meses.Octubre
+                Console.WriteLine("El mes ingresado es Octubre")
+            Case Meses.Noviembre
+                Console.WriteLine("El mes ingresado es Noviembre")
+            Case Meses.Diciembre
+                Console.WriteLine("El mes ingresado es Diciembre")
             Case Else
                 Console.WriteLine("El mes ingresado es incorrecto")
         End Select
