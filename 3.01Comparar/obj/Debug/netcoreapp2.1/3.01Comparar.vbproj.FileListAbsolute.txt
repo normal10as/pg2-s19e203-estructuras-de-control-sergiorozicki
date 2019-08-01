@@ -14,9 +14,9 @@ D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estruc
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\bin\Debug\netcoreapp2.1\3.01Comparar.runtimeconfig.dev.json
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\bin\Debug\netcoreapp2.1\3.01Comparar.dll
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\bin\Debug\netcoreapp2.1\3.01Comparar.pdb
-D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.vbprojAssemblyReference.cache
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.vbproj.CoreCompileInputs.cache
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.AssemblyInfoInputs.cache
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.AssemblyInfo.vb
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.dll
 D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.01Comparar\obj\Debug\netcoreapp2.1\3.01Comparar.vbprojAssemblyReference.cache

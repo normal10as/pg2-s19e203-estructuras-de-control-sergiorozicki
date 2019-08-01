@@ -8,3 +8,13 @@ D:\2019\Visual Basic\EstructurasControlFlujo\3.07Angulo\obj\Debug\netcoreapp2.1\
 D:\2019\Visual Basic\EstructurasControlFlujo\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.AssemblyInfo.vb
 D:\2019\Visual Basic\EstructurasControlFlujo\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.dll
 D:\2019\Visual Basic\EstructurasControlFlujo\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\bin\Debug\netcoreapp2.1\3.07Angulo.deps.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\bin\Debug\netcoreapp2.1\3.07Angulo.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\bin\Debug\netcoreapp2.1\3.07Angulo.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\bin\Debug\netcoreapp2.1\3.07Angulo.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\bin\Debug\netcoreapp2.1\3.07Angulo.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.07Angulo\obj\Debug\netcoreapp2.1\3.07Angulo.pdb

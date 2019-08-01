@@ -9,3 +9,13 @@ D:\2019\Visual Basic\EstructurasControlFlujo\3.06Venta2.0\obj\Debug\netcoreapp2.
 D:\2019\Visual Basic\EstructurasControlFlujo\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.AssemblyInfo.vb
 D:\2019\Visual Basic\EstructurasControlFlujo\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.dll
 D:\2019\Visual Basic\EstructurasControlFlujo\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\bin\Debug\netcoreapp2.1\3.06Venta2.0.deps.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\bin\Debug\netcoreapp2.1\3.06Venta2.0.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\bin\Debug\netcoreapp2.1\3.06Venta2.0.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\bin\Debug\netcoreapp2.1\3.06Venta2.0.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\bin\Debug\netcoreapp2.1\3.06Venta2.0.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.06Venta2.0\obj\Debug\netcoreapp2.1\3.06Venta2.0.pdb

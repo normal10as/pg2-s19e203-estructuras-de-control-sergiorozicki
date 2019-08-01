@@ -9,3 +9,13 @@ D:\2019\Visual Basic\EstructurasControlFlujo\3.08DiasMes\obj\Debug\netcoreapp2.1
 D:\2019\Visual Basic\EstructurasControlFlujo\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.AssemblyInfo.vb
 D:\2019\Visual Basic\EstructurasControlFlujo\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.dll
 D:\2019\Visual Basic\EstructurasControlFlujo\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\bin\Debug\netcoreapp2.1\3.08DiasMes.deps.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\bin\Debug\netcoreapp2.1\3.08DiasMes.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\bin\Debug\netcoreapp2.1\3.08DiasMes.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\bin\Debug\netcoreapp2.1\3.08DiasMes.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\bin\Debug\netcoreapp2.1\3.08DiasMes.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.08DiasMes\obj\Debug\netcoreapp2.1\3.08DiasMes.pdb

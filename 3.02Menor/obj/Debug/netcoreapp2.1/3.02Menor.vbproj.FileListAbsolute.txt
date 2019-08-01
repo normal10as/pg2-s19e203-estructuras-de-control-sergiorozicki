@@ -9,3 +9,14 @@ D:\2019\Visual Basic\EstructurasControlFlujo\3.02Menor\obj\Debug\netcoreapp2.1\3
 D:\2019\Visual Basic\EstructurasControlFlujo\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.dll
 D:\2019\Visual Basic\EstructurasControlFlujo\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.pdb
 D:\2019\Visual Basic\EstructurasControlFlujo\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\bin\Debug\netcoreapp2.1\3.02Menor.deps.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\bin\Debug\netcoreapp2.1\3.02Menor.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\bin\Debug\netcoreapp2.1\3.02Menor.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\bin\Debug\netcoreapp2.1\3.02Menor.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\bin\Debug\netcoreapp2.1\3.02Menor.pdb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.dll
+D:\2019\Visual Basic\GitHub\Estructuras de Control\normal10as\pg2-s19e203-estructuras-de-control-sergiorozicki\3.02Menor\obj\Debug\netcoreapp2.1\3.02Menor.pdb
